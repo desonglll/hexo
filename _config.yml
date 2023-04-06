@@ -110,3 +110,7 @@ search:
   field: post
   content: true
   # template: ./search.xml # Optional
+
+permalink_pinyin:
+  enable: true
+  separator: "-" # default: '-'
